@@ -40,11 +40,10 @@ INSTALLED_APPS = [
     
     'rest_framework',
     'board.apps.BoardConfig',
-    'rest_framework',
-    'api.apps.ApiConfig',
+    'Api.apps.ApiConfig',
     'crispy_forms',
     'crispy_tailwind',
-    'board.apps.BoardConfig',
+
 ]
 
 MIDDLEWARE = [

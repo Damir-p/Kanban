@@ -1,4 +1,4 @@
-from api.views import DetailTask, ListTask
+from Api.views import DetailTask, ListTask
 
 from django.urls import path
 
