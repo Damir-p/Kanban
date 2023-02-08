@@ -1,4 +1,4 @@
-from api.serializers import TaskSerializer
+from Api.serializers import TaskSerializer
 
 from board.models import Task
 
